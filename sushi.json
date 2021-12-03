@@ -1,0 +1,379 @@
+[{
+
+     "id": 1,
+
+     "nom": "Tasty Blend",
+
+     "pieces": 12,
+
+     "composition": [
+
+       {"nom":"California Saumon Avocat","quantite": 3},
+
+       {"nom":"Sushi Saumon","quantite": 3},
+
+       {"nom":"Spring Avocat Cheese","quantite": 3},
+
+       {"nom":"California pacific","quantite": 3},
+
+       {"nom":"Edamame/Salade de chou","quantite": 1}
+
+     ],
+
+     "saveurs": ["saumon","avocat","cheese"],
+
+     "prix": 12.50,
+
+     "image": "tasty-blend"
+
+},
+
+{
+
+     "id": 2,
+
+     "nom": "Amateur Mix",
+
+     "pieces": 18,
+
+     "composition": [
+
+       {"nom":"Maki Salmon Roll","quantite": 3},
+
+       {"nom":"Spring Saumon Avocat","quantite": 3},
+
+       {"nom":"Maki Cheese Avocat","quantite": 6},
+
+       {"nom":"California Saumon Avocat","quantite": 3},
+
+       {"nom":"Edamame/Salade de chou","quantite": 1}
+
+     ],
+
+     "saveurs": ["coriandre","saumon","avocat","cheese"],
+
+     "prix": 15.90,
+
+     "image": "amateur-mix"
+
+},
+
+{
+
+     "id": 3,
+
+     "nom": "Saumon Original",
+
+     "pieces": 11,
+
+     "composition": [
+
+       {"nom":"California Saumon Avocat","quantite": 6},
+
+       {"nom":"Sushi Saumon","quantite": 5},
+
+       {"nom":"Edamame/Salade de chou","quantite": 1}
+
+     ],
+
+     "saveurs": ["saumon","avocat"],
+
+     "prix": 12.50,
+
+     "image": "saumon-original"
+
+},
+
+{
+
+     "id": 4,
+
+     "nom": "Salmon Lovers",
+
+     "pieces": 18,
+
+     "composition": [
+
+       {"nom":"California Saumon Avocat","quantite": 6},
+
+       {"nom":"Spring Saumon Avocat","quantite": 6},
+
+       {"nom":"Sushi Saumon","quantite": 6},
+
+       {"nom":"Edamame/Salade de chou","quantite": 1}
+
+     ],
+
+     "saveurs": ["coriandre","saumon","avocat"],
+
+     "prix": 15.90,
+
+     "image": "salmon-lovers"
+
+},
+
+{
+
+     "id": 5,
+
+     "nom": "Salmon Classic",
+
+     "pieces": 10,
+
+     "composition": {
+
+       "Sushi Saumon": 10,
+
+       "Edamame / Salade de chou": 1
+
+     },
+
+     "saveurs": ["saumon"],
+
+     "prix": 15.90,
+
+     "image": "salmon-classic"
+
+},
+
+{
+
+     "id": 6,
+
+     "nom": "Master Mix",
+
+     "pieces": 12,
+
+     "composition": {
+
+       "Sushi Saumon": 4,
+
+       "Sushi Thon": 2,
+
+       "California Thon Avocat": 3,
+
+       "California Saumon Avocat": 3,
+
+       "Edamame / Salade de chou": 1
+
+     },
+
+     "saveurs": ["saumon","thon","avocat"],
+
+     "prix": 15.90,
+
+     "image": "master-mix"
+
+},
+
+{
+
+     "id": 7,
+
+     "nom": "Sunrise",
+
+     "pieces": 18,
+
+     "composition": {
+
+       "Maki Salmon Roll": 6,
+
+       "California Saumon Avocat": 6,
+
+       "California Thon Cuit Avocat": 6,
+
+       "Edamame / Salade de chou": 1
+
+     },
+
+     "saveurs": ["saumon","thon","avocat","cheese"],
+
+     "prix": 15.90,
+
+     "image": "sunrise"
+
+},
+
+{
+
+     "id": 8,
+
+     "nom": "Sando Box Chicken Katsu",
+
+     "pieces": 13,
+
+     "composition": {
+
+       "Sando Chicken Katsu": 0.5,
+
+       "Maki Salmon Roll": 6,
+
+       "California Saumon Avocat": 6,
+
+       "California Thon Cuit Avocat": 6,
+
+       "Edamame / Salade de chou": 1
+
+     },
+
+     "saveurs": ["saumon","viande","avocat","cheese"],
+
+     "prix": 15.90,
+
+     "image": "sando-box-chicken-katsu"
+
+},
+
+{
+
+     "id": 9,
+
+     "nom": "Sando Box Salmon Aburi",
+
+     "pieces": 13,
+
+     "composition": {
+
+       "Sando Salmon Aburi": 0.5,
+
+       "California Saumon Avocat": 6,
+
+       "California Thon Cuit Avocat": 6,
+
+       "Edamame / Salade de chou": 1
+
+     },
+
+     "saveurs": ["saumon","thon","avocat"],
+
+     "prix": 15.90,
+
+     "image": "sando-box-salmon-aburi"
+
+},
+
+{
+
+     "id": 10,
+
+     "nom": "Super Salmon",
+
+     "pieces": 24,
+
+     "composition": {
+
+       "California Saumon Avocat": 6,
+
+       "Maki Salmon Roll": 6,
+
+       "Maki Salmon": 6,
+
+       "Spring Saumon Avocat": 6,
+
+       "Edamame / Salade de chou": 1
+
+     },
+
+     "saveurs": ["coriandre","saumon","avocat","cheese"],
+
+     "prix": 19.90,
+
+     "image": "super-salmon"
+
+},
+
+{
+
+     "id": 11,
+
+     "nom": "California Dream",
+
+     "pieces": 24,
+
+     "composition": {
+
+       "California Saumon Avocat": 6,
+
+       "California Crevette": 6,
+
+       "California Thon Cuit Avocat": 6,
+
+       "California Chicken Katsu": 6,
+
+       "Edamame / Salade de chou": 1
+
+     },
+
+     "saveurs": ["spicy","saumon","thon","crevette","viande","avocat"],
+
+     "prix": 19.90,
+
+     "image": "california-dream"
+
+},
+
+{
+
+     "id": 12,
+
+     "nom": "Gourmet Mix",
+
+     "pieces": 22,
+
+     "composition": {
+
+       "Spring tataki Saumon": 6,
+
+       "Signature Dragon Roll": 4,
+
+       "California French Touch": 3,
+
+       "California French salmon": 6,
+
+       "California Yellowtail Ponzu": 3,
+
+       "Edamame / Salade de chou": 1
+
+     },
+
+     "saveurs": ["coriande","spicy","saumon","viande","avocat","seriole lalandi"],
+
+     "prix": 24.50,
+
+     "image": "gourmet-mix"
+
+},
+
+{
+
+     "id": 13,
+
+     "nom": "Fresh Mix",
+
+     "pieces": 22,
+
+     "composition": {
+
+       "Signature Rock'n Roll": 4,
+
+       "Maki Salmon Roll": 6,
+
+       "California Pacific": 6,
+
+       "Sushi Salmon": 4,
+
+       "Sushi Saumon Tsukudani": 2,
+
+       "Edamame / Salade de chou": 1
+
+     },
+
+     "saveurs": ["spicy","saumon","thon","avocat","cheese"],
+
+     "prix": 24.50,
+
+     "image": "fresh-mix"
+
+}
+
+]
